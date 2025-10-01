@@ -10,8 +10,6 @@ cd RAG-QA-APP
 ### 2. Create Virtual Enviroment
 ```bash
 uv venv .venv
-
-python -m venv .venv
 ```
 
 ### 3. Activate Virtual Enviroment
@@ -26,7 +24,10 @@ source .venv\Scripts\activate
 
 ```
 
-### 4. Run App
+### 4. Create .env & GROQ API KEY
+
+
+### 5. Run App
 ```bash
 ./run.sh
 ```
