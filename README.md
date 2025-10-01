@@ -24,7 +24,7 @@ source .venv\Scripts\activate
 
 ```
 
-### 4. Create .env & GROQ API KEY
+### 4. Create .env file & GROQ API KEY
 
 
 ### 5. Run App
